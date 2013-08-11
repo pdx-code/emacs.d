@@ -1,5 +1,5 @@
 (menu-bar-mode -1)
-(linum-mode t)
+(linum-mode 1)
 
 (setq backup-directory-alist `(("." . "~/.emacs.d/backups")))
 
